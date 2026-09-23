@@ -1,6 +1,3 @@
----
-
-## 🖥️ ASCII Me
 
 <div align="center">
 
@@ -49,8 +46,6 @@
 </pre>
 
 </div>
-
----
 
 
 <div align="center">
