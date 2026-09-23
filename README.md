@@ -1,3 +1,40 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:334155&height=200&section=header&text=Ali%20Haider%20Kzm&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
+
+<a href="https://alihaiderkzm.netlify.app">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;Frontend+%26+UI+Developer;Python+Tools+Developer;Minecraft+Developer;Building+things+that+actually+work." alt="Typing SVG" />
+</a>
+
+<br/>
+
+<a href="https://alihaiderkzm.netlify.app">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+<a href="https://github.com/alihaiderkzm">
+  <img src="https://img.shields.io/badge/GitHub-alihaiderkzm-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
+---
+
+## 👋 About Me
+
+Hi! I'm **Ali Haider Kzm** — a developer from **Faisalabad, Pakistan 🇵🇰**, focused on building modern web experiences, useful Python tools, and custom Minecraft projects.
+
+I enjoy turning ideas into **clean, interactive and functional software**. My main focus is frontend and web development, while I also work with Python and Minecraft development.
+
+```text
+💻 Web Development       → Modern & responsive websites
+🎨 Frontend Development  → Interactive UI & animations
+🐍 Python Development    → Tools, automation & utilities
+⛏️ Minecraft Development → Plugins, mods & server setups
+```
+
+> ✨ I don't just want things to work — I want them to feel polished.
+
+---
 
 <div align="center">
 
@@ -46,45 +83,6 @@
 </pre>
 
 </div>
-
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:334155&height=200&section=header&text=Ali%20Haider%20Kzm&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
-
-<a href="https://alihaiderkzm.netlify.app">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;Frontend+%26+UI+Developer;Python+Tools+Developer;Minecraft+Developer;Building+things+that+actually+work." alt="Typing SVG" />
-</a>
-
-<br/>
-
-<a href="https://alihaiderkzm.netlify.app">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-<a href="https://github.com/alihaiderkzm">
-  <img src="https://img.shields.io/badge/GitHub-alihaiderkzm-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</div>
-
----
-
-## 👋 About Me
-
-Hi! I'm **Ali Haider Kzm** — a developer from **Faisalabad, Pakistan 🇵🇰**, focused on building modern web experiences, useful Python tools, and custom Minecraft projects.
-
-I enjoy turning ideas into **clean, interactive and functional software**. My main focus is frontend and web development, while I also work with Python and Minecraft development.
-
-```text
-💻 Web Development       → Modern & responsive websites
-🎨 Frontend Development  → Interactive UI & animations
-🐍 Python Development    → Tools, automation & utilities
-⛏️ Minecraft Development → Plugins, mods & server setups
-```
-
-> ✨ I don't just want things to work — I want them to feel polished.
-
----
 
 ## 🚀 What I Do
 
