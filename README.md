@@ -196,17 +196,9 @@ A custom Minecraft plugin created around a unique passive/active ability system.
 
 <div align="center">
 
-<a href="https://alihaiderkzm.netlify.app">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-alihaiderkzm.netlify.app-38BDF8?style=for-the-badge"/>
-</a>
-
-<a href="https://github.com/alihaiderkzm">
-<img src="https://img.shields.io/badge/GitHub-alihaiderkzm-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://instagram.com/alihaider.kzm">
-<img src="https://img.shields.io/badge/Instagram-alihaider.kzm-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
+[![Portfolio](https://img.shields.io/badge/Portfolio-alihaiderkzm.netlify.app-DA22FF?style=for-the-badge&logo=netlify&logoColor=white)](https://alihaiderkzm.netlify.app/)
+[![Instagram](https://img.shields.io/badge/Instagram-alihaider.kzm-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/alihaider.kzm)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923318365450)
 
 </div>
 
