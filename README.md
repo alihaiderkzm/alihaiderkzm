@@ -215,6 +215,6 @@ A custom Minecraft plugin created around a unique passive/active ability system.
 
 **Building • Learning • Experimenting • Improving**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:334155,50:1e293b,100:0f172a&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:7C3AED,100:A855F7&height=120&section=footer" width="100%"/>
 
 </div>
