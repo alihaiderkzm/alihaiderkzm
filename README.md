@@ -8,7 +8,7 @@
 </p>
 
 <a href="https://alihaiderkzm.netlify.app">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=%23DA22FF&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;Frontend+%26+UI+Developer;Python+Tools+Developer;Minecraft+Developer;Building+things+that+actually+work." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=#ffffff&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;Frontend+%26+UI+Developer;Python+Tools+Developer;Minecraft+Developer;Building+things+that+actually+work." alt="Typing SVG" />
 </a>
 
 <br/>
