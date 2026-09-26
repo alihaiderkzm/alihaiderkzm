@@ -8,9 +8,17 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-alihaiderkzm.netlify.app-DA22FF?style=for-the-badge&logo=netlify&logoColor=white)](https://alihaiderkzm.netlify.app/)
-[![Instagram](https://img.shields.io/badge/Instagram-alihaider.kzm-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/alihaider.kzm)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923318365450)
+<a href="https://alihaiderkzm.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-alihaiderkzm.netlify.app-DA22FF?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio">
+</a>
+
+<a href="https://instagram.com/alihaider.kzm" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-alihaider.kzm-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+</a>
+
+<a href="https://wa.me/923318365450" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+</a>
 
 </div>
 
